@@ -1,1 +1,1 @@
-https://github.com/Mikhail-Varlamov/posmotri-v-okno-fd
+https://github.com/Mikhail-Varlamov/slozhno-sosredotochitsya-fd
