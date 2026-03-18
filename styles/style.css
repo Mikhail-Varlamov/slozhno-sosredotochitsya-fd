@@ -278,7 +278,7 @@
     padding-block: 60px;
   }
 
-  .content-section_two-column {
+  .content-section_layout_base {
     grid-template-columns: minmax(236px, 1fr) minmax(0, 2fr);
     column-gap: 20px;
   }
@@ -331,7 +331,7 @@
     margin-inline-start: -20px;
   }
 
-  .content-section_two-column {
+  .content-section_layout_base {
     grid-template-columns: 315px 1fr;
   }
 
